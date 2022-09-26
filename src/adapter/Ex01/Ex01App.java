@@ -9,3 +9,4 @@ public class Ex01App {
 		cs.accpetClaim("망함");
 	}
 }
+ 
